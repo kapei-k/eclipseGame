@@ -72,18 +72,8 @@
   ],
   "name":"rm_c3_1",
   "parent":{
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
-=======
     "name":"c3",
     "path":"folders/Rooms/c3.yy",
->>>>>>> Stashed changes
-=======
-    "name":"c3",
-    "path":"folders/Rooms/c3.yy",
->>>>>>> Stashed changes
   },
   "parentRoom":null,
   "physicsSettings":{
