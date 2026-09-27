@@ -1,6 +1,10 @@
 {
   "FolderOrderSettings":[
+<<<<<<< Updated upstream
     {"name":"c3","order":1,"path":"folders/Rooms/c3.yy",},
+=======
+    {"name":"c3","order":11,"path":"folders/Rooms/c3.yy",},
+>>>>>>> Stashed changes
   ],
   "ResourceOrderSettings":[
     {"name":"obj_badge","order":1,"path":"objects/obj_badge/obj_badge.yy",},
