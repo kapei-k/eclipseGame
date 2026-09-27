@@ -95,6 +95,8 @@
     {"id":{"name":"rm_c1_3sb","path":"rooms/rm_c1_3sb/rm_c1_3sb.yy",},},
     {"id":{"name":"rm_c1_4","path":"rooms/rm_c1_4/rm_c1_4.yy",},},
     {"id":{"name":"rm_c1_4b","path":"rooms/rm_c1_4b/rm_c1_4b.yy",},},
+    {"id":{"name":"rm_c3_1","path":"rooms/rm_c3_1/rm_c3_1.yy",},},
+    {"id":{"name":"rm_c3_2","path":"rooms/rm_c3_2/rm_c3_2.yy",},},
     {"id":{"name":"rm_ex","path":"rooms/rm_ex/rm_ex.yy",},},
     {"id":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
     {"id":{"name":"rm_remap","path":"rooms/rm_remap/rm_remap.yy",},},
@@ -186,6 +188,8 @@
     {"roomId":{"name":"rm_c1_3mb","path":"rooms/rm_c1_3mb/rm_c1_3mb.yy",},},
     {"roomId":{"name":"rm_c1_4","path":"rooms/rm_c1_4/rm_c1_4.yy",},},
     {"roomId":{"name":"rm_c1_4b","path":"rooms/rm_c1_4b/rm_c1_4b.yy",},},
+    {"roomId":{"name":"rm_c3_1","path":"rooms/rm_c3_1/rm_c3_1.yy",},},
+    {"roomId":{"name":"rm_c3_2","path":"rooms/rm_c3_2/rm_c3_2.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
