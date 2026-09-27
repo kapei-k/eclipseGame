@@ -1,5 +1,7 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"c3","order":1,"path":"folders/Rooms/c3.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"obj_badge","order":1,"path":"objects/obj_badge/obj_badge.yy",},
     {"name":"rm_c1_1","order":1,"path":"rooms/rm_c1_1/rm_c1_1.yy",},
